@@ -1,16 +1,38 @@
 # Global COVID-19 Forecasting: Unveiling Insights and Predicting Cumulative Cases and Fatalities
 
-## Introduction
+##  
+
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
+
+## 
+
+## Content
+- [Project Overview](#overview)
+- [Background](#background)
+- [Objectives](#objectives)
+- [Methods](#methods)
+- [Data Preparation](#data-preparation)
+- [Modelling and Model Evaluations](#modelling-and-model-evaluations)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
+## 
+
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
+
+## 
+
+## Overview
 The COVID-19 pandemic has prompted a collaborative effort by the White House Office of Science and Technology Policy (OSTP) and various research groups, including Kaggle, to address critical scientific questions on COVID-19. This project focuses on Kaggle's COVID-19 forecasting challenge, aiming to develop a machine learning (ML) model predicting cumulative COVID-19 confirmed cases and fatalities worldwide. The goal is to provide accurate estimates that can assist medical and governmental institutions in pandemic preparedness.
 
 ## Background
 The dataset, available on Kaggle and sourced from John Hopkins CSSE, includes essential variables for predictions and forecasting. It encompasses cumulative confirmed cases and fatalities by country and date. The challenge involves forecasting future cases and fatalities using this data to support institutions in planning and response efforts.
 
 ## Objectives
-Develop an ML model to predict cumulative COVID-19 confirmed cases and fatalities globally.
-Conduct exploratory data analysis (EDA) to formulate hypotheses for predictive insights.
-Prepare the data for ML, addressing data quality issues and leveraging EDA findings.
-Evaluate at least three ML algorithms and recommend the best algorithm for the model.
+  - Develop an ML model to predict cumulative COVID-19 confirmed cases and fatalities globally.
+  - Conduct exploratory data analysis (EDA) to formulate hypotheses for predictive insights.
+  - Prepare the data for ML, addressing data quality issues and leveraging EDA findings.
+  - Evaluate at least three ML algorithms and recommend the best algorithm for the model.
 
 ## Methods
 Exploratory Data Analysis
