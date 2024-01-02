@@ -38,11 +38,14 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ## **Number of Cases and Fatalities**
 
+
+## **Cases and Fatalities Trend**
+
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases_trend.gif)
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/fatal_trend.gif)
 
-## **Cases and Fatalities Trend**
+## **Trend of Spread**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
