@@ -2,8 +2,6 @@
 
 ##  
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
-
 ## 
 
 ## Content
@@ -37,11 +35,17 @@ The dataset, available on Kaggle and sourced from John Hopkins CSSE, includes es
 ## Exploratory Data Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
 
+## **Number of Cases and Fatalities**
+
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases_trend.gif)
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/fatal_trend.gif)
 
+## **Cases and Fatalities Trend**
 
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
+
+## **US DATA (as over 90% of the data were from USA)**
 
 
 ## Data Preparation
