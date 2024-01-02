@@ -10,7 +10,7 @@
 - [Project Overview](#overview)
 - [Background](#background)
 - [Objectives](#objectives)
-- [Methods](#methods)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preparation](#data-preparation)
 - [Modelling and Model Evaluations](#modelling-and-model-evaluations)
 - [Conclusion](#conclusion)
@@ -34,10 +34,7 @@ The dataset, available on Kaggle and sourced from John Hopkins CSSE, includes es
   - Prepare the data for ML, addressing data quality issues and leveraging EDA findings.
   - Evaluate at least three ML algorithms and recommend the best algorithm for the model.
 
-## Methods
-Exploratory Data Analysis
-Data quality issues, including duplications and multicollinearity, were addressed.
-Inconsistencies in province/state and county features were identified.
+## Exploratory Data Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
 
 ## Data Preparation
