@@ -2,6 +2,8 @@
 
 ##  
 
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
+
 ## 
 
 ## Content
@@ -16,7 +18,6 @@
 
 ## 
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
 ## 
 
@@ -43,7 +44,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ## **Cases and Fatalities Trend**
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
 ## **US DATA (as over 90% of the data were from USA)**
 
