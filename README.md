@@ -20,6 +20,9 @@
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Population_2020.png)
 
+
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases.png)
+
 ## 
 
 ## Overview
