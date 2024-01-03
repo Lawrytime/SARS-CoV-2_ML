@@ -56,7 +56,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
 
 ## **US DATA**
-        **Over 90% of the data were from USA'**
+`Over 90% of the data were from USA 🇺🇸`
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases_usa.png)
 
