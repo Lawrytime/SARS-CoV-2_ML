@@ -53,7 +53,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.png)
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
 
 ## **US DATA (as over 90% of the data were from USA)**
 
@@ -67,6 +67,9 @@ Data was split into training, validation, and test sets.
 Feature engineering and addressing missing values were conducted based on EDA insights.
 
 ## Modelling and Model Evaluations
+
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/ml_mal.png)
+
 Various ML algorithms, such as Random Forest and XGBoost, were applied.
 Hyperparameter tuning and performance metrics, including weighted pinball loss, were evaluated.
 Ensemble Voting was employed for enhanced predictive power.
