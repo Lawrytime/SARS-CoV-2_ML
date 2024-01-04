@@ -79,7 +79,7 @@ Feature engineering and addressing missing values were conducted based on EDA in
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/ml_map.png)
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/pin_ball.png)
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/pinball.png)
 
 Various ML algorithms, such as Random Forest and XGBoost, were applied.
 Hyperparameter tuning and performance metrics, including weighted pinball loss, were evaluated.
