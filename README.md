@@ -71,7 +71,11 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
+## 
+
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
+
+## 
 
 ### **US DATA**
 
@@ -81,6 +85,8 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases_usa.png)
 
+## 
+
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/fatalities_usa.png)
 
 
@@ -88,9 +94,13 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 Data was split into training, validation, and test sets.
 Feature engineering and addressing missing values were conducted based on EDA insights.
 
+## 
+
 ## Modelling and Model Evaluations
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/ml_map.png)
+
+## 
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/pinball.png)
 
@@ -98,12 +108,18 @@ Various ML algorithms, such as Random Forest and XGBoost, were applied.
 Hyperparameter tuning and performance metrics, including weighted pinball loss, were evaluated.
 Ensemble Voting was employed for enhanced predictive power.
 
+## 
+
 ## Conclusion
 The study utilized multiple ML models to predict US COVID fatalities and confirmed cases, with Gradient Boosting Regressor yielding the lowest weighted pinball loss. Additionally, Ridge regression was employed for predicting confirmed cases. The notebook provides submission files for predicted target values of US COVID fatalities and confirmed cases.
+
+## 
 
 ## Recommendations
   - Further refinement of the model could incorporate additional data sources.
   - ML explicability tools, such as SHAP and AI Fairness, could enhance model interpretability.
   - The findings suggest the potential application of ML in predicting recovery rates and more.
+
+## 
 
 ## UWL AI
