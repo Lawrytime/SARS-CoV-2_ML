@@ -45,11 +45,15 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ### **Number of Cases and Fatalities**
 
-### **Confirmed Case Distribution by Country**
+##### **Confirmed Case Distribution by Country**
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases.png)
 
-### **Fatality Distribution by Country**
+## 
+
+##### **Fatality Distribution by Country**
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/ftl.png)
+
+## 
 
 ### **Cases and Fatalities Trend**
 
