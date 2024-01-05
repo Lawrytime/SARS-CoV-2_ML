@@ -63,7 +63,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ### **US DATA**
 
-![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/USA_.png)
+![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/US_.png)
 
 `Over 90% of the data were from USA`
 
