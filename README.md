@@ -69,15 +69,17 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/fatal_trend.gif)
 
-### **Trend of Spread**
+##  
 
-#### **Worldwide**
+## **Trend of Spread**
+
+### **Worldwide**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
 ##  
 
-#### **US DATA**
+### **US**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/US_.png)
 
@@ -91,7 +93,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ##  
 
-#### **Eu**
+#### **EU**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
 
