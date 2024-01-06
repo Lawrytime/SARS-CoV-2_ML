@@ -124,4 +124,4 @@ The study utilized multiple ML models to predict US COVID fatalities and confirm
 
 ##  
 
-## UWL AI
+## UWL AI, 2023
