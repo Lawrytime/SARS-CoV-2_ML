@@ -41,9 +41,9 @@ Dataset available here: [COVID19 Global Forecasting (Week 5)](https://www.kaggle
 ## Exploratory Data Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
 
-### **Number of Cases and Fatalities**
+## **Number of Cases and Fatalities**
 
-#### **Confirmed Case Distribution by Country**
+### **Confirmed Case Distribution by Country**
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases.png)
 
 ##  
@@ -52,7 +52,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ##  
 
-#### **Fatality Distribution by Country**
+### **Fatality Distribution by Country**
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/ftl.png)
 
 ##  
@@ -71,7 +71,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ##  
 
-## **Trend of Spread**
+## **Trend of Spread and Recovery**
 
 ### **Worldwide**
 
@@ -93,7 +93,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ##  
 
-#### **EU**
+#### **Europe**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
 
