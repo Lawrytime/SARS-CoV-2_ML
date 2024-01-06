@@ -21,7 +21,7 @@
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Population_2020.png)
 
-##  
+##   
 
 ## Overview
 The COVID-19 pandemic has prompted a collaborative effort by the White House Office of Science and Technology Policy (OSTP) and various research groups, including Kaggle, to address critical scientific questions on COVID-19. This project focuses on Kaggle's COVID-19 forecasting challenge, aiming to develop a machine learning (ML) model predicting cumulative COVID-19 confirmed cases and fatalities worldwide. The goal is to provide accurate estimates that can assist medical and governmental institutions in pandemic preparedness.
