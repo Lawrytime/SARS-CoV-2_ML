@@ -93,7 +93,7 @@ Visualization highlighted population distribution and the impact of COVID-19 on 
 
 ##  
 
-#### **Europe**
+#### **Europe Recovery**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/eu_fatal_trend.gif)
 
