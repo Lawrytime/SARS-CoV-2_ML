@@ -127,5 +127,3 @@ The study utilized multiple ML models to predict US COVID fatalities and confirm
   - The findings suggest the potential application of ML in predicting recovery rates and more.
 
 ##  
-
-## UWL AI, 2023
