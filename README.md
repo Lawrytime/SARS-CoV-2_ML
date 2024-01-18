@@ -1,4 +1,5 @@
-# Global COVID-19 Forecasting: Unveiling Insights and Predicting Cumulative Cases and Fatalities
+# Global COVID-19 Forecasting: 
+Unveiling Insights and Predicting Cumulative Cases and Fatalities
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cov.jpeg)
 
