@@ -46,6 +46,12 @@ Exploratory data analysis was performed to establish hypotheses of predictive in
 Other quality checks carried out were:
  - Multicollinearity: High Correlation between Features (Independendant Variables) was addressed and fixed.
 
+•	Inconsistencies can be seen in both the province state and county features, which means that certain values are missing.
+
+Through visualization it was deduced that :
+•	China and India are the most populated countries
+•	United state was the moost affected country
+
 ## **Number of Cases and Fatalities**
 
 ### **Confirmed Case Distribution by Country**
