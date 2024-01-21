@@ -40,6 +40,12 @@ Dataset available here: [COVID19 Global Forecasting (Week 5)](https://www.kaggle
 ## Exploratory Data Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
 
+Exploratory data analysis was performed to establish hypotheses of predictive insights from the dataset. 
+•	As a result of the exploration, it was discovered that:
+Data Quality issues such as ``Data Duplications`` (in both rows and columns) were also checked and addressed.
+Other quality checks carried out were:
+ - Multicollinearity: High Correlation between Features (Independendant Variables) was addressed and fixed.
+
 ## **Number of Cases and Fatalities**
 
 ### **Confirmed Case Distribution by Country**
