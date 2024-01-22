@@ -48,10 +48,6 @@ Other quality checks carried out were:
 
 •	Inconsistencies can be seen in both the province state and county features, which means that certain values are missing.
 
-Through visualization it was deduced that :
-•	China and India are the most populated countries
-•	United state was the moost affected country
-
 ## **Number of Cases and Fatalities**
 
 ### **Confirmed Case Distribution by Country**
@@ -89,6 +85,9 @@ Through visualization it was deduced that :
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/Covid_Fatalities.gif)
 
 ##  
+
+Through visualizations, it was deduced that:
+•	United state was the moost affected country.
 
 ### **USA**
 
