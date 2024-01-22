@@ -87,7 +87,8 @@ Other quality checks carried out were:
 ##  
 
 Through visualizations, it was deduced that:
-•	United state was the moost affected country.
+
+ •	United state was the most affected country.
 
 ### **USA**
 
