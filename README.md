@@ -136,4 +136,6 @@ The study utilized multiple ML models to predict US COVID fatalities and confirm
 ## Recommendations
   - Further refinement of the model could incorporate additional data sources.
   - ML explicability tools, such as SHAP and AI Fairness, could enhance model interpretability.
-  - The findings suggest the potential application of ML in predicting recovery rates and more. 
+  - The findings suggest the potential application of ML in predicting recovery rates and more.
+
+## #ML
