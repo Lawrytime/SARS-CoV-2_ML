@@ -33,8 +33,12 @@ The dataset, available on Kaggle and sourced from John Hopkins CSSE, includes es
   - Evaluate at least three ML algorithms and recommend the best algorithm for the model.
   - Develop an ML model to predict cumulative COVID-19 confirmed cases and fatalities globally.
 
+##  
+
 ## Dataset
 Dataset available here: [COVID19 Global Forecasting (Week 5)](https://www.kaggle.com/c/covid19-global-forecasting-week-5/data?select=test.csv)
+
+##  
 
 ## Exploratory Data Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
@@ -46,6 +50,8 @@ Other quality checks carried out were:
  - Multicollinearity: High Correlation between Features (Independendant Variables) was addressed and fixed.
 
 •	Inconsistencies can be seen in both the province state and county features, which means that certain values are missing.
+
+##
 
 ## **Number of Cases and Fatalities**
 
