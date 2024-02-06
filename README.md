@@ -115,7 +115,6 @@ Through visualizations, it was deduced that:
 
 
 ## Data Preparation
-Data was split into training, validation, and test sets.
 Feature engineering and addressing missing values were conducted based on EDA insights.
 
 ##  
