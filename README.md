@@ -55,7 +55,7 @@ Other quality checks carried out were:
 
 ## **Number of Cases and Fatalities**
 
-##
+##  
 
 ### **Confirmed Case Distribution by Country**
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases.png)
