@@ -40,7 +40,7 @@ Dataset available here: [COVID19 Global Forecasting (Week 5)](https://www.kaggle
 
 ##  
 
-## Exploratory Data Analysis
+## Exploratory Analysis
 Visualization highlighted population distribution and the impact of COVID-19 on countries.
 
 Exploratory data analysis was performed to establish hypotheses of predictive insights from the dataset. 
