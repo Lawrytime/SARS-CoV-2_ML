@@ -136,7 +136,7 @@ Ensemble Voting was employed for enhanced predictive power.
 ##  
 
 ## Conclusion
-The study utilized multiple ML models to predict US COVID fatalities and confirmed cases (as the data is predominantly for US), with Gradient Boosting Regressor yielding the lowest weighted pinball loss. Additionally, Ridge regression was employed for predicting confirmed cases. The notebook provides submission files for predicted target values of US COVID fatalities and confirmed cases.
+The study utilized multiple ML models to predict US COVID fatalities and confirmed cases (as the data predominantly represents US), with Gradient Boosting Regressor yielding the lowest weighted pinball loss. Additionally, Ridge regression was employed for predicting confirmed cases. The notebook provides submission files for predicted target values of US COVID fatalities and confirmed cases.
 
 ##  
 
