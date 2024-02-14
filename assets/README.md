@@ -1,5 +1,5 @@
 ## Analyses
 
 ## Trends:
-    Cases
-    Fatalities
+   Cases
+   Fatalities
