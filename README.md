@@ -56,7 +56,7 @@ Other quality checks carried out were:
 ##
 
 ## **Number of Cases and Fatalities**
-
+      "Tap to play animations"
 ##  
 
 ### **Confirmed Case Distribution by Country**
