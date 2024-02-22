@@ -56,7 +56,7 @@ Other quality checks carried out were:
 ##
 
 ## **Number of Cases and Fatalities**
-      "Tap to play animations"
+
 ##  
 
 ### **Confirmed Case Distribution by Country**
@@ -78,6 +78,8 @@ Other quality checks carried out were:
 ##  
 
 ### **Cases and Fatalities Trend**
+
+***NB:Tap to play animations**
 
 ![](https://github.com/Lawrytime/SARS-CoV-2_ML/blob/main/assets/cases_trend.gif)
 
