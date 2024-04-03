@@ -1,4 +1,4 @@
-# Global COVID-19 Cases/Fatalities Prediction: Unveiling Insights and Predicting Cumulative Cases and Fatalities.
+# Global COVID-19 Cases/Fatalities Prediction: Unveiling Insights and Predicting Cumulative Cases/Fatalities.
 
 ##   
 
