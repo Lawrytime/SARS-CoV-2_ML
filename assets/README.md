@@ -1,6 +1,5 @@
 ## Analyses
 
-## Trends:
-   Cases
-   Fatalities
+## Trends
+
 ## Models
