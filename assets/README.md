@@ -1,5 +1,5 @@
 ## Analyses
 
-## Trends
+## Trend Visualizations
 
 ## Models
